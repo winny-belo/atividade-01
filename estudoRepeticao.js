@@ -4,7 +4,7 @@ for (let i = 0; i <= 10; i++) {
     contagem.push(i)
 }
 
-for (let i = 0; i<=10; i++){
+for (let i = 0; i < contagem.length; i++){
     console.log (contagem[i])
 }
 
